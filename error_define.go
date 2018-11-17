@@ -3,7 +3,7 @@
 package apiproxy
 
 import (
-	"git.quyun.com/apibox/api"
+	"github.com/go-apibox/api"
 )
 
 // error type

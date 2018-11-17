@@ -11,10 +11,10 @@ import (
 	"strings"
 	"sync"
 
-	"git.quyun.com/apibox/api"
-	"git.quyun.com/apibox/apiclient"
-	"git.quyun.com/apibox/session"
-	"git.quyun.com/apibox/utils"
+	"github.com/go-apibox/api"
+	"github.com/go-apibox/apiclient"
+	"github.com/go-apibox/session"
+	"github.com/go-apibox/utils"
 	"github.com/gorilla/websocket"
 )
 
